@@ -53,7 +53,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href=""
+              href="#ContactSection"
               className="font-light text-gray-300 font-sans transition-all duration-300 hover:text-white hover:font-bold"
             >
               Contact

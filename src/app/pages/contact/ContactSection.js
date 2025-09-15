@@ -30,7 +30,7 @@ const ContactSection = () => {
   };
 
   return (
-    <section className="px-6 py-16 bg-base-200">
+    <section id="ContactSection" className="px-6 py-16 bg-base-200">
       <div className="max-w-4xl mx-auto">
         {/* Title + Social */}
         <div className="flex flex-col items-center text-center gap-6 mb-12">
